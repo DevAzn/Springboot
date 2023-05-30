@@ -27,6 +27,7 @@ public class SayHelloController {
     @ResponseBody
     public String sayHelloHTML() {
         //will add the view later - JSP
+        // comment for now
         return "index";
     }
 }
